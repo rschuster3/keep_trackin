@@ -1,0 +1,10 @@
+# Site settings
+title: Keep Trackin'
+email: rschuster3@gmail.com
+description: "Test blog"
+baseurl: "/keep_trackin"
+url: "http://rschuster3.github.io/keep_trackin"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <div class="col-md-12" style="margin-top:-5%;">
 <h3>Smothered in Old Bay</h3>
-<img src="https://github.com/rschuster3/keep_trackin/blob/gh-pages/images/20140829/IMG_6759.JPG" align="left" class="blog-img">
+<img src="https://github.com/rschuster3/keep_trackin/blob/gh-pages/images/20140829/IMG_6759.jpeg" align="left" class="blog-img">
 <p align="justify">
   I know I'm close because of the smell. Between Washington Marina and Maine Avenue Fish Market, the water is grey with oil and
   discarded fish carcases giving off a ripe aroma in the summer sun. Interconnected seafood stalls float on the water's surface

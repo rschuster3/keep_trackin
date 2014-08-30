@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <div class="col-md-12" style="margin-top:-5%;">
 <h3>Smothered in Old Bay</h3>
-<img src="/keep_trackin/images/20140829/IMG_6759.jpg" align="left" class="blog-img">
+<img src="https://github.com/rschuster3/keep_trackin/blob/gh-pages/images/20140829/IMG_6759.JPG" align="left" class="blog-img">
 <p align="justify">
   I know I'm close because of the smell. Between Washington Marina and Maine Avenue Fish Market, the water is grey with oil and
   discarded fish carcases giving off a ripe aroma in the summer sun. Interconnected seafood stalls float on the water's surface
@@ -22,8 +22,8 @@ categories: jekyll update
   for a bottled water. On my way out, I can't resist the Cherrystones and buy two dozen to steam with beer after the Memorial Day
   Parade.
 </p>
-<img src="/keep_trackin/images/20140829/IMG_6812.jpg" align="left" class="blog-img">
-<img src="/keep_trackin/images/20140829/IMG_6791.jpg" align="right" class="blog-img" style="width:49.5%;margin-left:1px;">
+<img src="https://github.com/rschuster3/keep_trackin/blob/gh-pages/images/20140829/IMG_6812.JPG" align="left" class="blog-img">
+<img src="https://github.com/rschuster3/keep_trackin/blob/gh-pages/images/20140829/IMG_6791.JPG" align="right" class="blog-img" style="width:49.5%;margin-left:1px;">
 </div>
 <div class="col-md-12" style="margin-top:-5%;">
 <h3>A Hotdog with A View</h3>
@@ -34,7 +34,7 @@ categories: jekyll update
   tour group line dance by the water, the sun sets and fireworks begin. Music floats across the tidal basin and children squee. After
   only a few minutes the show ends and we all trudge to the exit in a cloud of smoke. On the way back I stop for a red, white, and blue
   "turbo rocket". Because America.
-  <img src="/keep_trackin/images/20140829/IMG_5996.jpg" align="left" class="blog-img">
-  <img src="/keep_trackin/images/20140829/IMG_6178.jpg" align="right" class="blog-img">
+  <img src="https://github.com/rschuster3/keep_trackin/blob/gh-pages/images/20140829/IMG_5996.JPG" align="left" class="blog-img">
+  <img src="https://github.com/rschuster3/keep_trackin/blob/gh-pages/images/20140829/IMG_6178.JPG" align="right" class="blog-img">
 </p>
 </div>

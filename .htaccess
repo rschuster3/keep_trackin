@@ -1,0 +1,3 @@
+AddType image/jpeg .jpeg
+AddType image/jpg .jpg
+AddType image/jpg .JPG

@@ -23,5 +23,5 @@ categories: jekyll update
   but I'm under the gaze of those blue eyes, too. Afterwards I pass on into the darkness, laid bare, shivering, and tired from the walk. 
 </p>
 <img src="{{baseurl}}/keep_trackin/images/20140826/IMG_6309.JPG" style="width:50%;padding:5px;" align="left">
-<img src="{{baseurl}}/keep_trackin/images/20140826/IMG_6323.jpg" style="width:50%;padding:5px;" align="right">
+<img src="{{baseurl}}/keep_trackin/images/20140826/IMG_6323.JPG" style="width:50%;padding:5px;" align="right">
 </div>

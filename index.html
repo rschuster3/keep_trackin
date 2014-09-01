@@ -1,29 +1,26 @@
 ---
-layout: default
+layout: home
 ---
 
 <div class="container">
-      
-      <div class="jumbotron" style="background: url('{{baseurl}}/keep_trackin/images/title2.jpg') no-repeat center center;">
-        <h1>Look Around</h1>
-        <p class="lead">Walk far. Observe. Listen.</p>
-      </div>
-
+    <div class="col-md-12">
+		<div class="jumbotron" style="background: url('{{baseurl}}/keep_trackin/images/title3.jpeg') no-repeat center center;
+	                                background-size: 100%;">
+			<h1>Look Around</h1>
+			<p class="lead">Walk far. Observe. Listen.</p>
+		</div>
+		<div class="home">
+			<ul class="posts">
+				{% for post in site.posts %}
+				<li>
+					<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				</li>
+			{% endfor %}
+			</ul>
+			<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+		</div>
+	</div>
 </div> <!-- /container -->
 
-<div class="home">
 
-  <h1>Posts</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>

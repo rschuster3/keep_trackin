@@ -4,17 +4,17 @@ title:  "Eating Out(side) in DC"
 date:   2014-08-29 21:47:00
 categories: jekyll update
 ---
-<div class="col-md-12" style="margin-top:-5%;">
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
 <h3>Smothered in Old Bay</h3>
 <img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6759.jpeg" align="left" class="blog-img">
-<p align="justify">
+<p>
   I know I'm close because of the smell. Between Washington Marina and Maine Avenue Fish Market, the water is grey with oil and
   discarded fish carcases giving off a ripe aroma in the summer sun. Interconnected seafood stalls float on the water's surface
   and, once I'm in front of them, fill the air with the scent of ice and cold shells. Cherrystone clams for 50c each, cooked crayfish for
   $7 a pound, and entire bushels full of blue crabs align in intriguingly symmetric displays. Neon signs stating today's specials are
   strung up with clothes pins and bottles of lemon juice sit on plywood shelves.  
 </p>
-<p align="justify">
+<p>
   Despite its proximity to DC's tourist hordes, the Fish Market is full of local families stocking up on blue crab for weekend boils. I
   go for the crayfish ("crawfish" is how we said it in Georgia) and ask for a healthy dose of Old Bay. While I sit in the sun, a
   biker couple next to me flirt with each other feed the birds. We talk about proper ways to deconstruct crustaceans. Having eaten
@@ -22,19 +22,24 @@ categories: jekyll update
   for a bottled water. On my way out, I can't resist the Cherrystones and buy two dozen to steam with beer after the Memorial Day
   Parade.
 </p>
-<img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6812.JPG" align="left" class="blog-img">
-<img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6791.JPG" align="right" class="blog-img" style="width:49.5%;margin-left:1px;">
+<img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6812.JPG" align="left" class="blog-img" style="width:46.5%;">
+<img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6791.JPG" align="right" class="blog-img" style="width:48.5%;">
 </div>
 <div class="col-md-12" style="margin-top:-5%;">
 <h3>A Hotdog with A View</h3>
-<p align="justify">
+<p>
   Now it's July 4th at the National Mall and I'm determined to get the best view. I arrive early at the Jefferson Memorial which,
-  yes-you-have-to-walk-to-it but it comes equipped with its own non-Port-A-John bathroom facilities and Nathan's hot dog stand.
-  Intense hunger ensures the hot dog is gone before I can snap a picture of it. After several hours in which I watched a West Virginia
-  tour group line dance by the water, the sun sets and fireworks begin. Music floats across the tidal basin and children squee. After
-  only a few minutes the show ends and we all trudge to the exit in a cloud of smoke. On the way back I stop for a red, white, and blue
-  "turbo rocket". Because America.
-  <img src="{{baseurl}}/keep_trackin/images/20140829/IMG_5996.JPG" align="left" class="blog-img">
-  <img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6178.JPG" align="right" class="blog-img">
+  yes-you-have-to-walk-to-it but it comes equipped with its own bathroom facilities and Nathan's hot dog stand.
+  Intense hunger ensures the hot dog is gone before I can snap a picture of it. After several minutes in which I watch a West Virginia
+  tour group line dance, a woman named Jane sits next to me and offers me M&Ms. At first I'm shy and don't talk much, but soon she tells me all about
+  her job as a nuclear site inspector, her son who just graduated college ("He's worth his weight in uranium"), and her new downsized house. 
 </p>
+<p>
+  The sun sets and fireworks begin. Music floats across the tidal basin and children go quiet as sounds and light bounce and reflect off the water.
+  After only a few minutes the show ends and we all trudge to the exit in a cloud of smoke. Walking home, I stop for a red, white, and blue
+  "turbo rocket" because where else but America could I find one of those on a night like this? Other stragglers commune in the florescent glow
+  and we celebrate, commemorate, and eat.
+</p>
+<img src="{{baseurl}}/keep_trackin/images/20140829/IMG_5996.JPG" align="left" class="blog-img">
+<img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6178.JPG" align="right" class="blog-img">
 </div>

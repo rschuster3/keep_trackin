@@ -27,7 +27,7 @@ categories: jekyll update
   and apparently the whole point. Nearby, a boy runs across one of the wattle and daub forms like it's a half pipe, flying off
   the far end with new-found momentum.
   <br>
-  <img src="{{baseurl}}/keep_trackin/images/20140908/IMG_7506.JPG" align="left" class="blog-img">
+  <img src="{{baseurl}}/keep_trackin/images/20140908/IMG_7506.JPG" class="blog-img">
   <img src="{{baseurl}}/keep_trackin/images/20140908/IMG_7405.JPG" align="right" class="blog-img">
 </p>
 </section>

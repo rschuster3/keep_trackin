@@ -186,10 +186,10 @@ a:visited { color: #205caa; }
 
 .post-content > * { margin: 20px 0; }
 
-.post-content img {
+/*.post-content img {
   margin:5px 10px 5px 10px;
   width:47%;
-}
+}*/
 
 .post-content p {
   text-align:justify;
@@ -416,11 +416,11 @@ a:visited { color: #205caa; }
     clear: both;
     width: auto;
     margin: 0 0 15px; }
-
 }
 
 /* Ryan Stuff */
 .blog-img {
-  width:48%;
-  margin:5px 10px 5px 10px;
+  margin:5px;
+  width:46%;
+  display:inline-block;
 }

@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "5x5 Take One --> Nonuments Park"
+date:   2014-09-08 21:40:00
+categories: jekyll update
+---
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+<h3>Peep Show</h3>
+<p>
+  Outdoor art is popping up all over DC for 5x5, a temporary collective of five curators, each exhibiting five artists until December. 
+  This second rendition of 5x5 (the first was in Spring 2012) hopes to engage local residents through free events and interactive pieces
+  in DC's eight wards. At the intersection of I and 4th Streets SW, Jonathan Fung's <i>Peep</i> stands out from a distance. A bright pink
+  shipping container designed to resemble a lurid neon display invites visitors to peer through three peep holes. Inside, however, children's
+  toy blocks hang in the darkness, some plastered with images of human trafficking victims lit only by the outside light. Each spectator
+  casts a shadow on their faces. Victims are often shipped in such containers to a life of forced labor and, on its far side, the container's
+  port windows look in on lines of sewing machines.
+</p>
+<img src="{{baseurl}}/keep_trackin/images/20140908/IMG_7411.JPG" style="width:100%;" class="blog-img">
+
+<section>
+<h3>Dark Grass</h3>
+<p>
+  Past <i>Peep</i>, a line of saplings, following the path of ropes thrown by artist Peter Hutchinson, curves through two other pieces: 
+  <i>Inked Garden</i> by Jennifer Wen Ma and interactive wattle and daub forms by Eliza and Nora Naranjo Morse. While <i>Inked Garden</i>'s portrait
+  of a human face was difficult to distinguish at ground level, the idea that new, green plants will spring through the black ink is heartening
+  and apparently the whole point. Nearby, a boy runs across one of the wattle and daub forms like it's a half pipe, flying off
+  the far end with new-found momentum.
+  <img src="{{baseurl}}/keep_trackin/images/20140908/IMG_7506.JPG" align="left" class="blog-img">
+  <img src="{{baseurl}}/keep_trackin/images/20140908/IMG_7405.JPG" align="right" class="blog-img">
+</p>
+</section>
+
+<h3>Bird Houses</h3>
+<p>
+  <img src="{{baseurl}}/keep_trackin/images/20140908/IMG_7484.JPG" align="right" class="blog-img">
+  The last structure, which (frankly) I'm obsessed with, is a series of spindly-legged birds' nests, painted white. <i>Migration</i>, by 
+  Cameron Hockenson, conveys the feeling of isolation that comes with being uprooted in a world of social and natural upheaval. It's especially
+  potent in this city at this time as well-heeled transients replace deep-rooted communities. Progress means change,
+  but the movement associated with change can break apart strong support systems and leave behind adrift individuals. Of all the sculptures
+  here, this summarizes the atmosphere I've experienced in DC through every person I've met. It also inspired a hope that we
+  can create a home for ourselves, if only we stop, help each other, and take the time.  
+  <br>
+  <img src="{{baseurl}}/keep_trackin/images/20140908/IMG_7465.JPG" class="blog-img">
+</p>
+
+</article>
+</div>

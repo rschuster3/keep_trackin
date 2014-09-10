@@ -1,12 +1,12 @@
 /* Main marketing message and sign up button */
 .jumbotron {
-  height:300px;
   margin-top:10px;
   text-align: center;
   
-  -webkit-background-size: 100%;
-  -moz-background-size: 100%;
-  -o-background-size: 100%;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
   color: #ff004d;
 }
 .jumbotron h1 {
@@ -16,8 +16,4 @@
 .jumbotron p {
   font-size:200%;
   font-family: 'Lobster', cursive;
-}
-
-.container {
-  width:70%;
 }

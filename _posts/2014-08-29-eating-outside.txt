@@ -7,7 +7,7 @@ categories: jekyll update
 <div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
 <h3>Smothered in Old Bay</h3>
 <p>
-  <img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6759.jpeg" align="left" class="blog-img">
+  <img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6759.jpeg" align="left" style="width:45%;margin:5px;">
   I know I'm close because of the smell. Between Washington Marina and Maine Avenue Fish Market, the water is grey with oil and
   discarded fish carcases giving off a ripe aroma in the summer sun. Interconnected seafood stalls float on the water's surface
   and, once I'm in front of them, fill the air with the scent of ice and cold shells. Cherrystone clams for 50c each, cooked crayfish for
@@ -20,24 +20,35 @@ categories: jekyll update
   all the tails, sucked the heads clean, and ingested a renal-failure-inducing amount of seasoning, I run to the vending machines
   for a bottled water. On my way out, I can't resist the Cherrystones and buy two dozen to steam with beer after the Memorial Day
   Parade.
-  <br>
-  <img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6812.JPG" align="left" class="blog-img" style="width:45%;">
-  <img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6791.JPG" align="right" class="blog-img" style="width:47%;">
+  <div class="row">
+    <div class="col-lg-6 col-sm-12">
+      <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140829/IMG_6812.JPG">
+	</div>
+	<div class="col-lg-6 col-sm-12">
+      <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140829/IMG_6791.JPG">
+    </div>
+  </div>
 </p>
 
 <h3>A Hotdog with A View</h3>
 <p>
-  Now it's July 4th at the National Mall and I'm determined to get the best view. I arrive early at the Jefferson Memorial which,
+  Now it's July 4th at the National Mall and I'm determined to get a good view. I arrive early at the Jefferson Memorial which,
   yes-you-have-to-walk-to-it but it comes equipped with its own bathroom facilities and Nathan's hot dog stand.
   Intense hunger ensures the hot dog is gone before I can snap a picture of it. After several minutes in which I watch a West Virginia
-  tour group line dance, a woman named Jane sits next to me and offers me M&Ms. At first I'm shy and don't talk much, but soon she tells me all about
+  tour group line dance, a woman named Jane sits next to me and offers me M&Ms. At first we're shy and don't talk much, but soon she tells me all about
   her job as a nuclear site inspector, her son who just graduated college ("He's worth his weight in uranium"), and her new downsized house. 
   <br>
   The sun sets and fireworks begin. Music floats across the tidal basin and children go quiet as sounds and light bounce and reflect off the water.
   After only a few minutes the show ends and we all trudge to the exit in a cloud of smoke. Walking home, I stop for a red, white, and blue
   "turbo rocket" because where else but America could I find one of those on a night like this? Other stragglers commune in the florescent glow
   and we celebrate, commemorate, and eat.
-  <img src="{{baseurl}}/keep_trackin/images/20140829/IMG_5996.JPG" align="left" class="blog-img">
-  <img src="{{baseurl}}/keep_trackin/images/20140829/IMG_6178.JPG" align="right" class="blog-img">
+  <div class="row">
+    <div class="col-lg-6 col-sm-12">
+      <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140829/IMG_5996.JPG">
+	</div>
+	<div class="col-lg-6 col-sm-12">
+      <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140829/IMG_6178.JPG">
+	</div>
+  </div>
 </p>
 </div>

@@ -13,17 +13,28 @@ categories: jekyll update
   and watch lightning bugs as rushing water covers up the sound of traffic. It's dark when I emerge from the forest by Taft Bridge and the 
   air is heavy. Beams thrown by street lamps, normally invisible, are magnified, and the rain-slicked road is a pathway of head and tail lights. 
 </p>
-<img src="{{baseurl}}/keep_trackin/images/20140826/IMG_6328.JPG" align="left">
-<img src="{{baseurl}}/keep_trackin/images/20140826/IMG_6303.JPG" align="right">
+<div class="row">
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140826/IMG_6328.JPG">
+  </div>
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140826/IMG_6303.JPG">
+  </div>
+</div>
 <p>
-  Space opens up here under the massive bridge and views are expansive. Cars are illuminated as they pass by, some up to lighted streets, others
+  Space opens up here under the massive bridge and views are expansive. The lights illuminate cars as they pass by up to lighted streets or
   down into wooded darkness. I'm not alone: above me a pair of blue eyes watches, like Mr. Eckleburg in The Great Gatsby. These roads are a hub and everyone 
-  here, enclosed in metal vehicles, takes privacy for granted. However, on approach the openness of this place suddenly invades like a police officer's 
+  here, enclosed in metal vehicles, takes privacy for granted. However, on approach the openness of this place invades like a police officer's 
   flash light and each individual is exposed. Let me see your face. Where are you going? Everyone must pass scrutiny. At first I make the mistake of 
-  thinking I'm an observer and out of reach, but I'm under the gaze of those blue eyes, too. What would they ask of me? What truths and lies 
-  would I expel at their request? This place is one of inward reflection, all because of the way the lights shine into cars when they drive by. With these 
-  thoughts I pass on into the darkness, laid bare, shivering, and tired from the walk. 
+  thinking I'm an observer and out of reach, but I'm under the gaze of those blue eyes, too. What would they ask me? What information
+  would I give up at their request? This place forces one to look inward, all because of the way the lights shine into cars when they drive by.
 </p>
-<img src="{{baseurl}}/keep_trackin/images/20140826/IMG_6309.JPG" align="left">
-<img src="{{baseurl}}/keep_trackin/images/20140826/IMG_6323.JPG" align="right">
+<div class="row">
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140826/IMG_6309.JPG">
+  </div>
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140826/IMG_6323.JPG">
+  </div>
+</div>
 </div>

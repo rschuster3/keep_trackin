@@ -4,7 +4,10 @@ email: rschuster3@gmail.com
 description: "Documenting my experiences and others' stories as I come across them"
 baseurl: "/keep_trackin"
 url: "http://rschuster3.github.io/keep_trackin"
-comments:true
+comments :
+  provider : disqus
+  disqus :
+    short_name : keep-trackin
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "5x5 Take Two --> Navy Yard"
+date:   2014-09-13 21:00:00
+categories: jekyll update
+---
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+
+<h3>Bridge</h3>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140913/IMG_7586.jpg">
+  </div>
+</div>
+
+<p>
+  I saw <i>Bridge</i> on a rainy Saturday during Snallygaster beer fest. It hangs from the rafters of an old warehouse with a dirt floor and
+  leaky roof, swaying in the breeze. During WWI and WWII, the warehouse functioned as an electrical substation for the Navy Yard complex, although
+  that Saturday it was more of a useful rain shelter. As I shuffled in with tipsy festival goers, my eyes immediately shot upward. From far away 
+  <i>Bridge</i>'s scale and directionality act as a connection between viewer and open space, emphasizing its volume. On approach, however, 
+  the bridge 'planks' are actually casts of athlete Tommie Smith's right arm in the shape of a fist. In the 1968 Olympic
+  Games, Smith won the men's 200m and raised his fist on the podium in solidarity with victims of racism and oppression. For Smith's actions the IOC 
+  expelled him and fellow athlete John Carlos (who protested alongside Smith) from the games, a controversy within which both men received regular 
+  death threats.
+</p>
+	
+<div class="row">
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140913/IMG_7576.jpg">
+  </div>
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140913/IMG_7578.jpg">
+  </div>
+</div>
+	
+<p>
+  Los Angeles based artist Glenn Kaino created the piece as a physical manifestation of the narrative surrounding Smith's salute. The winding form
+  represents changing perceptions and ideologies associated with a known symbol and the resulting path toward justice and equality. For those 
+  unaware of the event or its significance, <i>Bridge</i> breathes life into Smith's legacy and reiterates struggles still faced
+  by many today. Viewers standing under its arches may not know about or remember Tommie Smith, but a noticeable hush falls as they gaze
+  upward and feel elevated. 
+</p>
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140913/IMG_7565.jpg">
+  </div>
+</div>
+
+</article>
+</div>

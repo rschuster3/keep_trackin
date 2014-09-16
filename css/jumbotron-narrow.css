@@ -1,19 +1,25 @@
 /* Main marketing message and sign up button */
 .jumbotron {
-  margin-top:10px;
+  margin-bottom:20px;
   text-align: center;
-  
+
   -webkit-background-size: 100% 100%;
   -moz-background-size: 100% 100%;
   -o-background-size: 100% 100%;
   background-size: 100% 100%;
-  color: #ff004d;
+
+  color: #333;
 }
 .jumbotron h1 {
-  font-size:400%;
+  font-size:600%;
   font-family: 'Lobster', cursive;
 }
 .jumbotron p {
   font-size:200%;
   font-family: 'Lobster', cursive;
 }
+
+.jumbotron background-img {
+  opacity:0.5;
+}
+

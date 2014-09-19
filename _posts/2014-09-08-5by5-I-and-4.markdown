@@ -9,7 +9,7 @@ categories: jekyll update
 <h3>Peep Show</h3>
 <p>
   Outdoor art is popping up all over DC for 5x5, a temporary collective of five curators, each exhibiting five artists until December. 
-  This second rendition of 5x5 (the first was in Spring) hopes to engage local residents through free events and interactive pieces
+  This second rendition of 5x5 (the first was in Spring 2012) hopes to engage local residents through free events and interactive pieces
   in DC's eight wards. On one site at the intersection of I and 4th Streets SW, Jonathan Fung's <i>Peep</i> stands out from a distance. A bright pink
   shipping container designed to resemble a lurid neon display invites visitors to peer through three peep holes. Inside, however, children's
   toy blocks hang in the darkness, some plastered with images of human trafficking victims lit only by the outside light. Each spectator

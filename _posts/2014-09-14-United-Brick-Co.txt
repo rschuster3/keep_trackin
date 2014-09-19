@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Building DC"
+date:   2014-09-14 21:00:00
+categories: jekyll update
+---
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+
+<h3>Brick Kilns</h3>
+
+<p>
+  <br>
+  Next to the National Arboretum's New York Avenue entrance sits a group of low brick buildings that resemble half-buried bee hives. They're so
+  overgrown the entire site looks like a scene from Jurassic Park or Alien v. Predator (minus the non-humanoids). Despite its menacing and crumbling
+  appearance, however, the abandoned United Brickyard Corporation offers few dangers apart from being a "No Trespassing" zone. Kilns that fed the
+  post WWII construction boom now sit silent and cold. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140914/IMG_7599.JPG">
+  </div>
+</div>
+
+<p>
+  Inside, the kilns take on a Parthenon-like appearance, arching up to a single hole in the ceiling. Their doors are welded shut with the exception
+  of one. It contains chairs, tables, and a poster ad for cigarettes - like its inhabitants were trying to simulate a local caf&eacute;. Rail tracks
+  partition the area and act as convenient sidewalks, keeping the weeds at bay. The factory layout resembles the city it built, with transport routes
+  connecting activity hubs and a central building overseeing everything. Men worked here around the hive-like structures, and even though this place
+  is silent now it tells the story of how DC was built, changed, and moved on. 
+</p>	
+
+<div class="row">
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140914/IMG_7591.JPG">
+  </div>
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140914/IMG_7622.JPG">
+  </div>
+</div>
+	
+
+
+</article>
+</div>

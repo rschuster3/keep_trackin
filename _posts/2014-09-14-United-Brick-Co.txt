@@ -20,7 +20,7 @@ categories: jekyll update
 
 <div class="row">
   <div class="col-lg-12 col-sm-12">
-    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140914/IMG_7599.JPG">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140914/IMG_7599.jpg">
   </div>
 </div>
 
@@ -34,10 +34,10 @@ categories: jekyll update
 
 <div class="row">
   <div class="col-lg-6 col-sm-12">
-    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140914/IMG_7591.JPG">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140914/IMG_7591.jpg">
   </div>
   <div class="col-lg-6 col-sm-12">
-    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140914/IMG_7622.JPG">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140914/IMG_7622.jpg">
   </div>
 </div>
 	

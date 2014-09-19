@@ -23,3 +23,12 @@
   opacity:0.5;
 }
 
+@media screen and (max-width: 600px) {
+  .jumbotron h1 {
+    font-size:300%;
+  }
+  .jumbotron p {
+    font-size:150%;
+  }
+}
+

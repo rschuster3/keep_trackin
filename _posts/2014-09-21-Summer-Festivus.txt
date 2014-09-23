@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "Festivus: Summer Redux"
+date:   2014-09-21 21:00:00
+categories: jekyll update
+---
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+
+<h3>Showing Their Love [for NE DC]</h3>
+
+<p>
+  <br>
+  H Street came alive this weekend between 4th and 14th Streets NE. Artists, thrift store owners, food trucks, grill masters, and 125,000 patrons
+  gathered to celebrate the trendy Northeast DC neighborhood. H Street Festival, which concerned residents first organized after the 1968 race
+  riots, was not always so well attended. In 2007, however, local volunteers reinvented the fair by inviting more artists, merchants, and performers to
+  exhibit more extensive offerings to attendees. Now crowds hardly fit into the ten-blocks of festival grounds, restaurants hand out free beer,
+  and vendors from across DC compete for space to sell their products.
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7726.jpg">
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7714.jpg">
+  </div>
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7720.jpg">
+  </div>
+</div>
+
+<p>
+  <br>
+  DC residents of diverse backgrounds, from long-time inhabitants of Northeast to recent transplants, stood in line together, watched each other
+  perform, and traded tips on where to find the best food. DC Roller Girls displayed a few tricks and dancers showed off their moves outside of Atlas
+  Theater. Some community members sat together in front of their shops and restaurants, observing the scene. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7775.jpg">
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7839.jpg">
+  </div>
+  <div class="col-lg-6 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7783.jpg">
+  </div>
+</div>
+
+<h3>Colorful Display</h3>
+
+<p>
+  Fast forward one day to FiestaDC 2014, an annual celebration of Latino culture on Pennsylvania Avenue. Country-specific flags, f&ugrave;tbol jerseys, and 
+  skull art abounded. Tubs of white liquid (someone described it as "sweet rice water") and lemonade sweated next to grilling corn and skirt steak. Teenagers 
+  kicked soccer balls around with their younger siblings but didn't go easy on the kids. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7893.jpg">
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7861.jpg">
+  </div>
+</div>
+
+<p>
+  Most impressive were the food vendors, sweating in 90&deg; heat to grill meat, pour broth, and fry yucca. Cashiers made sense of the disorganized lines
+  to keep money and provisions flowing. Opposite the food tents, dancers encouraged the crowd to join their energetic display. Despite the heat almost everyone
+  seemed to be enjoying themselves, including the kids (probably because so many toys were on sale).
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7857.jpg">
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7851.jpg">
+  </div>
+</div>
+
+</article>
+</div>

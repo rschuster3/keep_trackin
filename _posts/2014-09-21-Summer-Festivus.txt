@@ -71,7 +71,7 @@ categories: jekyll update
 </div>
 <div class="row">
   <div class="col-lg-12 col-sm-12">
-    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7861.jpg">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20140921/IMG_7861.JPG">
   </div>
 </div>
 

@@ -1,0 +1,127 @@
+---
+layout: post
+title:  "Minefield: What Centralia Left Behind"
+date:   2014-11-16 21:00:00
+categories: jekyll update
+---
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+
+<h3>Coal Country</h3>
+
+<p>
+  Driving up US Route 15 past Gettysburg, PA I swerve in my lane while attempting to gawk at golden valleys bounded by trees covered in orange and yellow leaves.
+  Despite the clouds overhead, everything <i>feels</i> bright and open. The farmhouses are picturesque, the views go on forever, and people are still
+  willing to go outside and brave the cold. All this changes, however, as I turn east and climb into the mountains. Here the towns are farther apart, the
+  trees have lost their leaves, and each hillside is a grey wall. Gigantic piles of rocks topped with barbed wire fences signal the beginning of coal country,
+  and now I'm uneasy.   
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141116/IMG_1311.jpg">
+  </div>
+</div>
+
+<p>
+  <br>
+  Centralia, PA, my destination, is a largely abandoned town; the most recent Census counted five households and ten residents. At its peak, Centralia's
+  population was over 2,700 and it had fourteen general and grocery stores. After the 1929 stock market crash, however, several area mines were closed. 
+  People left until only 1,986 remained in 1950. Early mining activity was dangerous, with children as 
+  young as seven working for a dollar a week in the 19th century. Mines lacked proper ventilation and emergency exits. One nearby fire killed 110 miners in
+  one day and inspired thousands of their colleagues to join the Workingmen's Benevolent Association, a local coal mining union. Most miners were Irish 
+  immigrants and a gang known as the Molly Maguires carried out acts of violence against what they saw as industrial interests.
+  Franklin B. Gowen, president of the Philadelphia and Reading Railroad, owned many of the area's mines and sought to take down the WBA. After cutting 
+  worker pay by 20% and forcing a strike, he hired a private detective and vigilantes to spy on and murder the Mollies. He started a war. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141116/IMG_1330.jpg">
+  </div>
+</div>
+
+<br>
+
+<h3>Judge, Jury, and Executioner</h3>
+
+<p>
+  Gowen's detective reported the names of suspected Mollies to his superiors only to find out later that the wife of one suspect was killed in an attack on
+  her home by unknown persons. He attempted to resign but was convinced to stay. The Mollies retaliated and Gowen took the opportunity to smear them in the
+  press. Local police arrested and imprisoned union leadership, destroying the organization and forcing workers to take the 20% pay cut - this after they spent
+  six months starving and struggling to survive. After widespread and gruesome violence (one man was crucified in the woods) several Molly Maguires were 
+  arrested and Gowen appointed himself special prosecutor. Despite a lack of evidence the court sentenced dozens of men to death and executed them within a 
+  year. One defendant was posthumously pardoned in 1979; the rest are still guilty according to the State of Pennsylvania. 
+  <br>
+</p>
+
+<h3>What Followed</h3>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141116/IMG_1322.jpg">
+  </div>
+</div>
+
+<p>
+  <br>
+  Centralia eventually went into decline although most residents still worked the mines. On May 27, 1962 fire fighters set fire to the town trash heap 
+  to clear it for future usage. This time, however, the fire made contact with an abandoned mine shaft and lit
+  up a complex underground network of coal. For months afterward officials tried to excavate and vent the area, but were unable to extinguish the flames.
+  Toxic gases seeped out from below and parts of the town began to collapse. Residents were informed that nothing could be done. The mines that made their
+  town had finally destroyed it.   
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141116/IMG_1324.jpg">
+  </div>
+</div>
+
+<h3>Today</h3>
+
+<p>
+  Wisps of steam still escape from warm areas of subsidence in Centralia's trash heap. Fire was even visible at the surface at some point in the 80's. Much
+  of the town has disappeared and locals use it as a place to walk dogs and ride dirt bikes. I heard gunfire in the distance and remembered it was deer season.
+  Part of Highway 61 was rerouted around the original road, which is now cracked, misshapen, and covered in graffiti. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141116/IMG_1253.jpg">
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141116/IMG_1270.jpg">
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141116/IMG_1276.jpg">
+  </div>
+</div>
+
+<p>
+  <br>
+  The town has four graveyards, the smallest belonging to an Orthodox Russian community which seems to have arrived in the late 19th to early 20th
+  century judging by its headstones. These places are Centralia's archive, the only permanent objects bearing names of people who lived here. Once these stones
+  overlooked streets full of homes and playing children. Families decorated their houses for Christmas and attended church potlucks. Now the streets
+  are empty and silent, disturbed only by the occasional traveller come to see a steaming pit covered in graffiti. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141116/IMG_1291.jpg">
+  </div>
+</div>
+
+</article>
+</div>

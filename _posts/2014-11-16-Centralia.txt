@@ -31,9 +31,9 @@ categories: jekyll update
   People left until only 1,986 remained in 1950. Early mining activity was dangerous, with children as 
   young as seven working for a dollar a week in the 19th century. Mines lacked proper ventilation and emergency exits. One nearby fire killed 110 miners in
   one day and inspired thousands of their colleagues to join the Workingmen's Benevolent Association, a local coal mining union. Most miners were Irish 
-  immigrants and a gang known as the Molly Maguires carried out acts of violence against what they saw as industrial interests.
-  Franklin B. Gowen, president of the Philadelphia and Reading Railroad, owned many of the area's mines and sought to take down the WBA. After cutting 
-  worker pay by 20% and forcing a strike, he hired a private detective and vigilantes to spy on and murder the Mollies. He started a war. 
+  immigrants and a gang known as the Molly Maguires (likely not sanctioned by the WBA) carried out acts of violence against what they saw as industrial 
+  interests. Franklin B. Gowen, president of the Philadelphia and Reading Railroad, owned many of the area's mines and sought to take down the WBA. After 
+  cutting worker pay by 20% and forcing a strike, he hired a private detective and vigilantes to spy on and murder the Mollies. He started a war. 
   <br>
 </p>
 

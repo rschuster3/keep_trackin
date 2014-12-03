@@ -39,7 +39,7 @@ categories: jekyll update
   local. Virginia had difficulty enforcing the laws; it had already sold its state fleet at auction. Local oystermen decided to protect their own grounds,
   firing at outsiders who encroached. Altercations escalated and spread until authorities had an all-out battle on their hands: the Oyster Wars had begun. In
   1882, Virginia governor William E. Cameron started a personal campaign against oyster pirates, who were well armed and organized at that point. He captured 
-  <a href="http://en.wikipedia.org/wiki/Oyster_Wars">seven dredging boats and 41 pirates</a>, but his victory turned out to be a flop. All but one of the
+  <a href="http://en.wikipedia.org/wiki/Oyster_Wars">seven dredging boats and 41 pirates</a> at the mouth of the Rappahannock, but his victory turned out to be a flop. All but one of the
   boats were from Virginia's Eastern Shore and Cameron didn't have enough evidence to prove they were dredging (an illegal act). His political
   opponents derided him as a failure and his efforts to take back Virginia's waters became a laughing stock. A bridge now spans the 
   spot where he captured the unsuspecting vessels. 

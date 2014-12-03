@@ -1,0 +1,111 @@
+---
+layout: post
+title:  "Mighty Oyster: A 15-Hour Chesapeake Circuit"
+date:   2014-12-01 21:00:00
+categories: jekyll update
+---
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+
+<br>
+<div class="row">
+  <div class="col-lg-10 col-sm-10">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141201/IMG_1497.JPG">
+  </div>
+</div>
+
+<h3>Free Food</h3>
+
+<p>
+  It's 10am when I drive over a bridge, pull off the side of the road, and hike back across. After climbing the roadside, I fight through a massive briar bush 
+  and almost fall into a rectangular hole. This is a 1500-year-old Native American midden - or trash heap - archaeologists excavated in 2012. It consists 
+  almost exclusively of discarded oyster shells and was a stopping-off point in the spring. Scientists also found arrowheads and other tools here, implying 
+  the inhabitants made camp for awhile. It's a hilltop with a view, Gouldman Creek on one side and the Potomac on another. Middens like this are our 
+  best way to study the past: our trash is the direct product of our collective existence. The things we put out into the world define us as a species. 
+  As the story of the Chesapeake oyster will tell, what we take out of the world defines us even more.
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141201/IMG_1462.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  Chesapeake oysters used to be plentiful such that anyone could scrape them off the shore and enjoy an impromptu snack. After the Civil War oystering 
+  exploded, with the Chesapeake producing half the world's supply. Maryland and Virginia banned outsiders from their waters, hoping to keep the industry
+  local. Virginia had difficulty enforcing the laws; it had already sold its state fleet at auction. Local oystermen decided to protect their own grounds,
+  firing at outsiders who encroached. Altercations escalated and spread until authorities had an all-out battle on their hands: the Oyster Wars had begun. In
+  1882, Virginia governor William E. Cameron started a personal campaign against oyster pirates, who were well armed and organized at that point. He captured 
+  <a href="http://en.wikipedia.org/wiki/Oyster_Wars">seven dredging boats and 41 pirates</a>, but his victory turned out to be a flop. All but one of the
+  boats were from Virginia's Eastern Shore and Cameron didn't have enough evidence to prove they were dredging (an illegal act). His political
+  opponents derided him as a failure and his efforts to take back Virginia's waters became a laughing stock. A bridge now spans the 
+  spot where he captured the unsuspecting vessels. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141201/IMG_1477.JPG">
+  </div>
+</div>
+
+<h3>Our Legacy</h3>
+
+<p>
+  With such high demand and little law enforcement, Chesapeake oysters were wiped out. Only 1% of the original population exists today. Oysters filter 
+  massive amounts of water and the old population could process the Chesapeake in a week. Now the same cleansing takes a year. Parasites further
+  decimated oyster stock, <a href="http://chesapeakebay.noaa.gov/oysters/oyster-reefs">causing the entire bay ecosystem to struggle</a>. Some have chosen
+  to fight the downward trend, starting farms all over the Bay. Oyster farming is one of few industrial activities which actually restores ecosystems and
+  makes a profit. <a href="http://www.bayoyster.com/">Chesapeake Bay Oyster Company</a>, which sells farming equipment and educational materials to anyone 
+  interested, is one such place and operates a restaurant out of Urbanna, Virginia. Their farms aren't open for public tour, however other operations along 
+  the shore are less guarded, like <a href="http://www.littleneck.com">this one in Willis Wharf</a>:
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141201/IMG_1514.JPG">
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141201/IMG_1528.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  100-year-old dredgers, called <a href="http://en.wikipedia.org/wiki/Skipjack_%28boat%29">Skipjacks</a>, still operate commercially and without engines. 
+  Many of them are docked at Tilghman's Island, MD and only 40 are left. They're long, with a wide body to stay stable under the friction of dredging chains on
+  rocky beds. This is the last true fleet to bring home a wild catch, and its numbers shrink every year with the oysters it preys upon. If the species
+  isn't restored soon, this way of life will die out completely. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141201/IMG_1564.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  That fact, really, is reflective of the human legacy. We pursue a thing we love and want until
+  we chase it into the ground. We despair, deride ourselves, and then make atonement. Sometimes, though, atonement comes too late. A handful of men and women
+  running small farms and undergoing restoration projects is all that stands between Chesapeake oysters and their lasting extinction. Their hard work may just
+  save the Bay.
+    <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141201/IMG_1545.JPG">
+  </div>
+</div>
+
+</article>
+</div>

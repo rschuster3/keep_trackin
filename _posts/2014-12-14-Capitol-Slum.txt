@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Capitol Hill Slum"
+date:   2014-12-14 21:00:00
+categories: jekyll update
+---
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+
+<br>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141214/8a00339v.jpg">
+  </div>
+</div>
+
+<h3>Winter, 2014</h3>
+
+<p>
+  It's Saturday morning in Washington D.C.'s Capitol Hill neighborhood. Children play in fenced areas, home owners tend their gardens, and shoppers carry 
+  Christmas trees from Eastern Market. Renovated row houses adorned with bright paint and holiday decorations are each an ode to the sheer 
+  wealth confined in this small area. Occasionally one glimpses the U.S. Capitol or Senate buildings down alleyways used, nowadays, for parking and trash
+  collection. Some alleys are more like small side streets where front doors open to brick courts.
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141214/IMG_1623.JPG">
+  </div>
+</div>
+
+<h3>Summer, 1935</h3>
+
+<p>
+  Several decades ago these alleys overflowed with detritus and human waste. Children ran barefoot among wood splinters and broken glass. Residents 
+  shared decaying outhouses with no privacy. The row houses, many covered in holes and broken windows, sagged in various directions and provided no heating, 
+  electricity, or plumbing. This unmonitored maze of human abjection spread from Union Station to Navy Yard and its younger citizens played on the U.S. Capitol
+  steps. The federal government's Resettlement Administration <a href="http://johnedwinmason.typepad.com/john_edwin_mason_photogra/2010/11/carl-mydans-washington-dc.html" 
+  >tasked</a> one employee, Carl Mydans, with investigating slum conditions in America. He began by grabbing his camera and walking down the street. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141214/8a00179v.jpg">
+  </div>
+</div>
+
+<p>
+  <br>
+  After the Civil War, demand for working-class labor boomed in D.C., along with the population. Many poor blacks and immigrants (mostly Irish and Italian)
+  moved into cheap alley dwellings hidden behind nicer street-facing residences. They created their own miniverse of cramped backyards, clothes lines, and
+  flooded walkways. Over time the city evicted residents and 'renovated' their homes, causing rents to soar and forcing poor labor to the city's outskirts. 
+  Officials didn't complete that process until the 1950's, however, and some newspapers even <a href="http://news.google.com/newspapers?nid=1842&dat=19550814&id=JRgsAAAAIBAJ&sjid=vsgEAAAAIBAJ&pg=2486,1392567">
+  claimed</a> Communists would use the slums as anti-U.S. propaganda.
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141214/8a00131v.jpg">
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141214/8a00217v.jpg">
+  </div>
+</div>
+
+<h3>A Comparison</h3>
+
+<p>
+  Today's alley dwellings - few remain - are paved with bricks and lined by expensive homes with modern amenities. Few dangers exist to public 
+  health and safety, and almost no one living here is impoverished. Regulations were met, the area improved, and its original inhabitants displaced 
+  forever in favor of higher income households. Whether or not the city's strategy had a net positive effect on low-wage workers is a matter for debate. Now,
+  perhaps, we can use Carl Mydans' images as a starting point to learn from past initiatives as D.C. continues to gentrify and long-standing communities 
+  disintegrate into an ever expanding diaspora.
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141214/IMG_1608.JPG">
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141214/8a00341v.jpg">
+  </div>
+</div>
+
+</article>
+</div>

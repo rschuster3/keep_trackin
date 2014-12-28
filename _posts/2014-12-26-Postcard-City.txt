@@ -1,0 +1,133 @@
+---
+layout: post
+title:  "They're Turning My City Into A Postcard"
+date:   2014-12-26 21:00:00
+categories: jekyll update
+---
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+
+<br>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141227/IMG_1727.JPG">
+  </div>
+</div>
+
+<h3>Atlanta, Ga</h3>
+
+<p>
+  Turning off North Avenue, my mother parks in front of what used to be a Sears warehouse turned city office space. Now it's a construction zone.
+  We walk into a glass-fronted lobby containing a model kitchen and bathroom. Two representatives for <a target="_blank" href="http://www.poncecitymarket.com/">Ponce City 
+  Market</a> (PCM) Apartments - a mixed-use 
+  development in Atlanta's Old Fourth Ward - greet us at the door. A city employee, my mother worked here years ago when 75% of the building was off limits 
+  due to asbestos; a maze of cubicles, empty rooms, and terrifying freight elevators. The receptionist shows us around and we're stunned at the 
+  transformation. Airy units with brand new appliances and fixtures open to city views. Residents enjoy perks like the Beltline (a park encircling the 
+  entire city), big-name retail, a farmers market, and rooftop bars. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141227/IMG_1791.JPG">
+  </div>
+</div>
+  
+<p>
+  <br>
+  The price: 550 sq ft studios start at $1400, one bedrooms at $1600. Someone from the West Coast or Northeast would laugh at the low rent and 
+  sign a lease that day. Atlantans may react differently: they enjoy some of the country's cheapest housing stock. The
+  thought of $1400 studios in Old Fourth Ward, until recently a hotbed of crime, gives pause. However, that attitude, deep-seated and difficult to shake, may soon 
+  change. From 2000 to 2009, Atlanta's young college-educated population <a target="_blank" href="http://atlanta.curbed.com/archives/2013/03/13/do-atlantas-woes-warrant-detroit-of-the-south-description.php">
+  grew by 61%</a>. While that growth <a target="_blank" href="http://www.nytimes.com/2014/10/20/upshot/where-young-college-graduates-are-choosing-to-live.html">
+  slowed recently</a>, the city remains a <a target="_blank" href="http://blog.gopenske.com/news/penske-truck-rentals-2013-top-moving-destinations-list/">
+  top</a> <a target="_blank" href="http://www.unitedvanlines.com/about-united/news/summer-long-distance-moving-trends-study">destination</a> for moving families.
+  Several dozen Fortune 500 companies call the city home, it's entrepreneur-friendly, and, again, housing is cheap. 
+  Drawbacks traditionally included unchecked sprawl, poor public transport, and high crime rates, trends which tend to reverse with an 
+  influx of young professionals to the city center.
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141227/IMG_1788.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  Across from PCM is a local landmark: the Masquerade. Housed in an abandoned textile factory, the concert venue is split into three levels: heaven, 
+  purgatory, and hell. Black, gritty, with a purple neon sign and questionable structural integrity, it's witnessed 25 years of bands-you-haven't-heard-of. 
+  <a target="_blank" href="http://atlanta.curbed.com/archives/2014/11/06/masquerade-overhaul-could-include-apartments-offices.php">Now it's in danger</a> as new
+  owners seek to include it in another mixed-use development. Even if the Masquerade remained a music venue (not likely), the new
+  incarnation would be a polished, stylish version of its former self. The building's old textile equipment, inconveniently placed tripping hazards, would 
+  become part of a historically-based brand, selling-points for would-be renters.
+  <br>
+</p>
+  
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141227/IMG_1749.JPG">
+  </div>
+</div>
+  
+<p>
+  <br>
+  All over the city, from <a target="_blank" href="http://westsidepd.com/">Westside Provisions District</a> to <a target="_blank" href="https://wdanielanderson.wordpress.com/2014/02/14/spotlight-on-incomparable-inman-park-atlanta/">
+  Inman Park</a>, developers will turn (or have turned) old warehouses and factories into expensive
+  apartments, condos, retail, and restaurants. S.O.P. dictates that historic features be retained and renovated, not to preserve Atlanta's past, but to use
+  its more romantic qualities to market abandoned spaces. This system turns the city into a caricature, especially to outsiders, and it forces the 
+  community into a narrow demographic. What if I want to open a dive bar for blue-collar workers and students? Too bad. It doesn't fit the brand. Have you 
+  considered a bar with an ironically blue-collar concept and higher price point? 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141227/IMG_1699.JPG">
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141227/IMG_1705.JPG">
+  </div>
+</div>
+
+<p>
+  <br>  
+  Places like Poncey-Highlands and Edgewood, with main streets catering to the needs of almost every income bracket may soon 
+  disappear. They'll be replaced with inward-facing complexes of stylish restaurants, big-name retail, and higher rents. Community value will depend on 
+  proximity to the nearest new development. Neighborhoods will lose ownership of themselves in favor of pricey New South theme parks where everyone but a 
+  select few pays rent and has no permanent financial stake. To top it off, these developments market almost exclusively to young professionals, the most
+  transient of demographics. Residents will move in, use the amenities, and move out. Few will stay and invest in the surrounding community because they won't 
+  be a part of it.
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141227/IMG_1768.JPG">
+  </div>
+</div>
+
+<p>
+  <br>  
+  Maybe I'm being dramatic. Maybe I'm overlooking the fact that these developments are bringing much needed jobs and money to once blighted areas. Still, there
+  are right and wrong ways to gentrify. Either seek out a long-term payoff which benefits everyone or a short-term payoff which benefits only 
+  developers and temporary residents. These developments need to be more diverse and inclusive in their branding and marketing. They need to connect with
+  already-established business centers. They need to foster an environment that encourages residents to invest in the surrounding area, take ownership. Only
+  then will these areas experience a long-lasting revival, not a narrative-driven temporary 'renaissance'. Only then will we have a living community on our
+  hands, not a post card.
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20141227/IMG_1773.JPG">
+  </div>
+</div>
+
+</article>
+</div>

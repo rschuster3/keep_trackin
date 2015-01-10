@@ -1,0 +1,152 @@
+---
+layout: post
+title:  "The Journey Died With Route 66"
+date:   2015-01-04 21:00:00
+categories: jekyll update
+---
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+
+<br>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150104/IMG_2161.JPG">
+  </div>
+</div>
+
+<h3>Destination: Sedona</h3>
+
+<p>
+  Arizona State Route 179 winds from Interstate 17 along the foot of the Colorado Plateau, dipping between towering red spires and stunted pine forests. 
+  Today the sun is out, reflecting off snow and ice juxtaposed starkly against red soil. At first the only notable building is a ranger station 
+  and visitor's center welcoming travellers to <a href="http://azstateparks.com/Parks/RERO/" target="_blank">Red Rock State Park</a>. Soon an entire town 
+  appears, its economy built around the park's beauty and outdoor activities. A famous attraction here, <a href="http://www.wildsedona.com/trails/cathedral.htm"
+  target="_blank">Cathedral Rock</a>, is visible at the town's far end, its foot a picturesque scene of snow-covered cacti and weathered pines. I start hiking,
+  and the rock face becomes steep, icy, so I join a group of other hikers to make the summit safely. We reach the top and, despite a lifetime of 
+  countless views, I'm stunned by <i>this</i> view as it unfolds endlessly until my sight line disappears over the Earth's curvature. This place is unique and 
+  draws people in to experience it: one destination with everything you need. Why waste your time and money stopping somewhere else?
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150104/IMG_2015.JPG">
+  </div>
+</div>
+  
+<h3>Replaced</h3>
+  
+<p>
+  From Sedona, Interstate 17 leads north to Flagstaff and Interstate 40, the highway built to <a 
+  href="http://en.wikipedia.org/wiki/Interstate_40_in_Arizona#History" target="_blank">replace</a> Route 66, which no longer exists in a continuous form.
+  It's split up into a few dusty stretches of pavement and dirt roads serving small towns not reached by I-40. Many are full of abandoned motels, shops, and 
+  restaurants with enormous, garish signs fading in the desert sun. When Route 66 was in its prime, these towns made their living on passers through, stopping 
+  at natural and contrived attractions on multi-day road trips. Now the towns are impoverished and shrinking, dead after nightfall. 
+  <br>
+</p>
+
+<h3>What They Left</h3>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150104/IMG_2071.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  Just east of Flagstaff, just as civilization fades away and windswept plains spread out, unbroken, in all directions, an exit sign points to <a
+  href="http://www.legendsofamerica.com/az-twoguns.html" target="_blank">Two Guns</a>. It's an abandoned town and tourist stop which used to house a small zoo, 
+  swimming pool, and souvenir shop. Old buildings, preserved by dry air and covered in graffiti, are visible from the highway. One can imagine parents 
+  lounging poolside while youngsters ran around in cowboy hats pointing fake guns at each other. Heat from the beating sun broken by a dive into clear, fresh 
+  water; relief after miles on a hot road. Neon signs must have lit the gas station at night, the only stop between here and Flagstaff. Now the structures 
+  lie silent and empty, simple pleasures abandoned along with the family road trip.  
+  <br>
+</p>
+  
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150104/IMG_2093.JPG">
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150104/IMG_2118.JPG">
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150104/IMG_2126.JPG">
+  </div>
+</div>
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150104/IMG_2137.JPG">
+  </div>
+</div>
+  
+<p>
+  <br>
+  Sedona and Two Guns represent travel experiences from different times. People go to one place now, one destination at the end of the road. These
+  places possess all the attractions, accommodations, and sustenance one desires. Two Guns, however, was just one stop offering a brief respite from a long
+  journey in which stumbling across open country full of natural beauty was the whole point. No one had to make reservations ahead of time; they drove until 
+  the kids said they were hungry and then looked for the nearest neon sign. Along the way they saw <a href="http://www.nps.gov/pefo/index.htm" target="_blank">
+  petrified forests</a>, <a href="http://naturalbornhikers.com/trails/bluemesa.html" target="_blank">rock formations</a> painted by time, ruined 
+  pueblos, and a landscape scarred by <a href="http://meteorcrater.com/" target="_blank">meteors</a> from outer space. Journeying across that land, not knowing 
+  what they'd see next, was an adventure. Now we plan our travel ahead of time with hyper focus on one thing, one place we want to see. No discovery is 
+  derived from that process; everything is packaged for our convenience.
+  <br>
+</p>
+
+<h3>A Living Graveyard</h3>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150104/IMG_2217.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  Just before sunset I reach Blue Mesa in Petrified Forest National Park. Layers of sediment stand out in the light, each containing different fossils
+  which fall out of the rocks slowly as they erode away. At the formation's foot lie pieces of petrified wood, scattered about the ground. Like Two Guns, Blue
+  Mesa is a time capsule in the desert. Even forests are preserved here. Settlers came upon this place centuries ago, not knowing where they were headed, just
+  knowing they had to move. Tourists still come here and follow the park road as it ambles down from what used to be Route 66 and into a wide land unmarked by 
+  man.
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150104/IMG_2239.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  On the way to Blue Mesa I stopped in Winslow, made famous by the Eagles song "Take it Easy":
+</p>
+  <span style="text-align:center;"><i>Well, I'm a standing on a corner<br>
+  in Winslow, Arizona<br>
+  and such a fine sight to see<br>
+  It's a girl, my Lord, in a flatbed<br>
+  Ford slowin' down to take a look at me<br>
+  Come on, baby, don't say maybe<br>
+  I gotta know if your sweet love is<br> 
+  gonna save me <br>
+  We may lose and we may win though<br>
+  we will never be here again<br>
+  so open up, I'm climbin' in,<br>
+  so take it easy</i></span>
+<p>
+  <br>
+  Living spontaneously along a strange road is a romantic notion, albeit possible. It can only happen when a traveler focuses on the journey, not the 
+  destination. In our rush to reach the end we bend all our energy toward that final place and lose out on discovery along the way. Maybe air travel
+  killed the road trip, maybe gas prices did it, or maybe we developed tunnel vision. Either way, for most of us, the journey is dead. We can only hope to
+  resuscitate it one day.
+  <br>
+</p>
+
+</article>
+</div>

@@ -18,7 +18,7 @@ categories: jekyll update
 <h3>Destination: Sedona</h3>
 
 <p>
-  Arizona State Route 179 winds from Interstate 17 along the foot of the Colorado Plateau, dipping between towering red spires and stunted pine forests. 
+  Arizona State Route 179 winds from Interstate 17 along the foot of the Colorado Plateau, dipping between towering rock spires and stunted pine forests. 
   Today the sun is out, reflecting off snow and ice juxtaposed starkly against red soil. At first the only notable building is a ranger station 
   and visitor's center welcoming travellers to <a href="http://azstateparks.com/Parks/RERO/" target="_blank">Red Rock State Park</a>. Soon an entire town 
   appears, its economy built around the park's beauty and outdoor activities. A famous attraction here, <a href="http://www.wildsedona.com/trails/cathedral.htm"

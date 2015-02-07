@@ -3,7 +3,7 @@ layout: post
 title:  "Minefield: What Centralia Left Behind"
 date:   2014-11-16 21:00:00
 categories: jekyll update
-cover: "/images/20141116/IMG_1311.JPG"
+cover: "/images/20141116/IMG_1311_t.JPG"
 ---
 <div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
 <article>

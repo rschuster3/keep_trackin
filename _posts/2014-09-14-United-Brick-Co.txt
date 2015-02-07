@@ -3,7 +3,7 @@ layout: post
 title:  "Building DC"
 date:   2014-09-14 21:00:00
 categories: jekyll update
-cover: "/images/20140914/IMG_7599.jpg"
+cover: "/images/20140914/IMG_7599_t.jpg"
 ---
 <div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
 <article>

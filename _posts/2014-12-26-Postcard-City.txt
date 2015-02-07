@@ -3,7 +3,7 @@ layout: post
 title:  "They're Turning My City Into A Postcard"
 date:   2014-12-26 21:00:00
 categories: jekyll update
-cover: "/images/20141227/IMG_1727.JPG"
+cover: "/images/20141227/IMG_1727_t.JPG"
 ---
 <div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
 <article>

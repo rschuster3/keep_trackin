@@ -3,6 +3,7 @@ layout: post
 title:  "Eating Out(side) in DC"
 date:   2014-08-29 21:47:00
 categories: jekyll update
+cover: "/images/20140829/IMG_6812.JPG"
 ---
 <div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
 <h3>Smothered in Old Bay</h3>

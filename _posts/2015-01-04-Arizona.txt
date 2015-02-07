@@ -3,6 +3,7 @@ layout: post
 title:  "The Journey Died With Route 66"
 date:   2015-01-04 21:00:00
 categories: jekyll update
+cover: "/images/20150104/IMG_2161.JPG"
 ---
 <div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
 <article>

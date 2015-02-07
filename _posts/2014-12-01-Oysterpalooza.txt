@@ -3,6 +3,7 @@ layout: post
 title:  "Mighty Oyster: A 15-Hour Chesapeake Circuit"
 date:   2014-12-01 21:00:00
 categories: jekyll update
+cover: "/images/20141201/IMG_1497.JPG"
 ---
 <div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
 <article>

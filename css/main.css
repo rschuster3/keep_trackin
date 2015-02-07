@@ -16,9 +16,14 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #2a7ae2; text-decoration: none; }
-a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #205caa; }
+a         { color: #333; text-decoration: none; }
+a:hover   { color: #5c5c5c; text-decoration: none; font-weight: bold; }
+a:visited { color: #333; }
+
+@font-face {
+  font-family:frente;
+  src:url('../font/FrenteH1-Regular.otf');
+}
 
 /* Utility */
 
@@ -32,44 +37,35 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
-
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 
 /* Site header */
 
-.site-header {
-  min-height: 56px;
-  font-family: 'Ubuntu Condensed', sans-serif;
-  background-color:#333;
+header {
+  height: 200px;
+  font-family: frente;
+  background-color:#669999;
 }
-
-.site-title,
-.site-title:hover,
-.site-title:visited {
-  display: block;
-  color: #ccc;
-  font-size: 200%;
-  letter-spacing: -1px;
-  float: left;
-  line-height: 56px;
-  position: relative;
-  z-index: 1;
-  margin-left:1%;
+.header-title {
+  position:absolute;
+  font-size:450%;
+  width:50%;
+  margin-left:25%;
+  margin-top:2%;
+  text-align:center;
 }
-
-.site-nav {
-  float: right;
-  line-height: 56px;
-  font-size:150%;
+.header-menu {
+  position:absolute;
+  font-size:200%;
+  width:50%;
+  margin-left:25%;
+  margin-top:9%;
+  text-align:center;
 }
-
-.site-nav .menu-icon { display: none; }
-
-.site-nav .page-link {
-  margin-left: 30px;
-  color: #ccc;
-  letter-spacing: -.5px;
+.header-menu a {
+  margin-right:15px;
+  margin-left:15px;
 }
 
 /* Site footer */
@@ -79,6 +75,9 @@ a:visited { color: #205caa; }
   padding: 30px 0;
   background-color:#333;
 }
+.site-footer a {color:#828282; text-decoration:none;}
+.site-footer a:hover {color:#828282; text-decoration:none; font-weight:bold;}
+.site-footer a:visited {color:#828282; text-decoration:none;}
 
 .footer-heading {
   font-size: 18px;
@@ -131,48 +130,65 @@ a:visited { color: #205caa; }
   top: 3px;
 }
 
-
-/* Page Content styles */
-/* ----------------------------------------------------------*/
-
-.page-content {
-  padding: 30px 0;
-  background-color: #fff;
+.separator {
+  clear:both;
+  width:100%;
+  height:10px;
 }
-
 
 /* Home styles */
 /* ----------------------------------------------------------*/
 
-.home h1 { margin-bottom: 25px; }
-
-.posts { 
- list-style-type: none; 
- font-family: 'Ubuntu Condensed', sans-serif;
+.home{ 
+  margin-bottom: 25px; 
+  min-height:100%;
+  height:auto;
 }
-
-.posts li { margin-bottom: 30px; }
-
-.posts .post-link {
-  font-size: 36px;
-  letter-spacing: -1px;
-  line-height: 1;
+.posts {
+ height:300px;
+ width:30%;
+ background-color:white;
+ display:inline-block;
+ margin:1%;
+}
+.posts-container {
+  width:80%;
+  margin-left:10%;
+  margin-top:2%;
+}
+.posts img {
+  position:absolute;
+  width:150%;
+  max-width:800px;
+  margin-left:25%;
+}
+.posts-text{
+ position:absolute;
+ font-family:frente;
+ text-align:center;
+ height:100%;
+ width:100%;
+ margin-left:-5%;
+ display:inline-block;
+ background-color:white;
+}
+.posts-link {
+  font-size:300%;
   color:#333;
 }
-
-.posts .post-date {
-  display: block;
-  font-size: 15px;
-  color: #818181;
+.posts-date {
+  font-size: 120%;
+  color: #333;
 }
-
 
 /* Post styles */
 /* ----------------------------------------------------------*/
 
 .post-header { 
   margin: 20px 0 10px 15px;
+  margin-bottom:2%;
   font-family: 'Ubuntu Condensed', sans-serif;
+  background-color:white;
 }
 
 .post-header h1 {

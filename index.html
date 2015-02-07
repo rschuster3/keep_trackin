@@ -1,27 +1,30 @@
 ---
 layout: home
 ---
-
-<div class="container postbox">
-
-	<div class="jumbotron" style="background: url('{{baseurl}}/keep_trackin/images/title4.jpeg') no-repeat center center;
-	                               background-size: 100% 100%;">
-		<h1>Look Around</h1>
-		<p class="lead">Walk far. Observe. Listen.</p>
-	</div>
-	<div class="col-lg-10 col-lg-offset-1 col-sm-12">
-		<div class="home">
-			<ul class="posts">
-				{% for post in site.posts %}
-				<li>
-					<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-				</li>
-			{% endfor %}
-			</ul>
-			<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="home">
+	<div class="col-lg-9 col-lg-offset-1 col-sm-12 posts-container">
+		{% for post in site.posts %}
+		<div class="col-lg-3 posts" style="background-image:url('{{ post.cover | prepend: site.baseurl }}');background-size:cover;">
+			<span class="posts-text">
+				<a class="posts-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
+				<span class="posts-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+			</span>
 		</div>
+		{% endfor %}
 	</div>
-</div> <!-- /container -->
+	<div class="separator"></div>
+</div>
 
-
+<script type="text/javascript">
+  $(document).ready(function () {
+    $.each($('.posts-text'),function() {
+	  $(this).css('opacity','0');
+	  
+	  $(this).hover(function() {
+		$(this).animate({'opacity':'0.8'},500);
+	  }, function() {
+		  $(this).animate({'opacity':'0'},500);
+	  });
+	});
+  });
+</script>

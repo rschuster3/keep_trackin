@@ -3,6 +3,7 @@ layout: post
 title:  "Lights on the Road at Night"
 date:   2014-08-26 20:00:00
 categories: jekyll update
+cover: "/images/20140826/IMG_6328.JPG"
 ---
 <div class="col-md-12">
 <h3>Taft Bridge</h3>

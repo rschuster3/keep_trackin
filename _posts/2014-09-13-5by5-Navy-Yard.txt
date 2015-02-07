@@ -3,6 +3,7 @@ layout: post
 title:  "5x5 Take Two --> Navy Yard"
 date:   2014-09-13 21:00:00
 categories: jekyll update
+cover: "/images/20140913/IMG_7586.jpg"
 ---
 <div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
 <article>

@@ -3,6 +3,7 @@ layout: post
 title:  "Capitol Hill Slum"
 date:   2014-12-14 21:00:00
 categories: jekyll update
+cover: "/images/20141214/8a00339v.jpg"
 ---
 <div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
 <article>

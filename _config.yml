@@ -1,8 +1,9 @@
 # Site settings
 title: Keep Trackin'
 email: rschuster3@gmail.com
+twitter_username: rmschuster
 description: "Documenting my experiences and others' stories as I come across them"
-baseurl: "/keep_trackin"
+baseurl: /keep_trackin
 url: "http://rschuster3.github.io/keep_trackin"
 comments :
   provider : disqus

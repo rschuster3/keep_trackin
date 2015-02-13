@@ -52,7 +52,7 @@ header {
   font-size:450%;
   width:50%;
   margin-left:25%;
-  margin-top:2%;
+  margin-top:30px;
   text-align:center;
 }
 .header-menu {
@@ -60,7 +60,7 @@ header {
   font-size:200%;
   width:50%;
   margin-left:25%;
-  margin-top:9%;
+  margin-top:130px;
   text-align:center;
 }
 .header-menu a {
@@ -146,15 +146,9 @@ header {
 }
 .posts {
  height:300px;
- width:30%;
  background-color:white;
  display:inline-block;
- margin:1%;
-}
-.posts-container {
-  width:80%;
-  margin-left:10%;
-  margin-top:2%;
+ padding:0;
 }
 .posts img {
   position:absolute;
@@ -168,7 +162,7 @@ header {
  text-align:center;
  height:100%;
  width:100%;
- margin-left:-5%;
+ min-width:100%;
  display:inline-block;
  background-color:white;
 }
@@ -179,6 +173,14 @@ header {
 .posts-date {
   font-size: 120%;
   color: #333;
+}
+
+@media all and (max-width:991px) {
+  body {font-size:12px;}
+  .header-menu,.header-title { 
+    width:100%;
+	margin-left:0;
+  }
 }
 
 /* Post styles */

@@ -1,8 +1,7 @@
 ---
 layout: home
 ---
-<div class="home">
-    <div class="col-lg-10 col-lg-offset-1 col-sm-12 col-xs-12" style="padding:0;">
+<div class="col-lg-10 col-lg-offset-1 col-sm-12 col-xs-12" style="padding:0;">
 	{% for post in site.posts %}
 	<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 posts" 
 	     style="background-image:url('{{ post.cover | prepend: site.baseurl }}');background-size:cover;">
@@ -12,8 +11,6 @@ layout: home
 		</span>
 	</div>
 	{% endfor %}
-	</div>
-	<div class="separator"></div>
 </div>
 
 <script type="text/javascript">

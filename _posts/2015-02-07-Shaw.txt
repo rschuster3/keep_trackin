@@ -69,6 +69,16 @@ cover: "/images/20150207/IMG_2505_t.JPG"
     <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150207/IMG_2499.JPG">
   </div>
 </div>
-
+  
+<p>
+  <br>
+  Business owners like Derek Brown, proprietor of Southern Efficiency, Mockingbird Hill, and Eat the Rich seek to serve this close knit and rebounding 
+  community. Eat the Rich is located in the exact spot where Brown shopped for vinyl as a child at the Waxie Maxie record store. Interestingly enough, Waxie 
+  Maxie's owner, Max Silverman, floated one of several loans which led to the founding of Atlantic Records. He’s proud of his neighborhood’s past: “People 
+  tend to put Shaw in a box, especially post-1968. But the life span of a neighborhood is more than 45 years. We're glad to be part of its ongoing legacy.” 
+  Tony Lucca, owner of 1905 Bistro & Bar, looks toward the future: ”We still face the same challenges that others face throughout urban cores everywhere, but 
+  Shaw does seem to be moving in the right direction in terms of safety, cleanliness, a mix of housing options, and services.” 
+  <br>
+</p>
 </article>
 </div>

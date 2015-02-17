@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Black Broadway: Shaw's History as an African American Cultural Hub"
+date:   2015-02-07 21:00:00
+categories: jekyll update
+cover: "/images/20150207/IMG_2505_t.JPG"
+---
+
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+
+<br>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150207/IMG_2505.JPG">
+  </div>
+</div>
+
+<h3>Was It Always Like This?</h3>
+
+<p>
+  On Friday night in Washington, D.C.’s Shaw neighborhood, crowds of people fill the sidewalks, spilling out onto U Street. They choose between dozens of bars and
+  venues which cater to every taste and demographic. After they get tired of one place, they move to another. Lines form as bouncers squint suspiciously at IDs 
+  and passports from all over the world. Music is playing. People are having fun. Business is good.  
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150207/ellington_1937.jpg">
+  </div>
+</div>
+
+<p>
+  <br>
+  Rewind to the 1920’s and see a similar but segregated scene. Washington enacted strict Jim Crow laws in the early 20th Century targeting parks, schools, and 
+  businesses. African Americans, many attracted to the District’s booming job market, formed tight communities to support each other and thrive. Howard 
+  University and Dunbar High School, both prestigious African American institutions, anchored Shaw and provided opportunities not found in much of the U.S. 
+  Well-paying federal jobs supported a large middle class. Shaw was the center of black culture in America before the Harlem Renaissance began. Musical legends 
+  like Duke Ellington and Shirley Horn came of age here. They performed jazz, R&B, soul, and the blues at nationally renowned venues like the Howard Theatre 
+  and Bohemian Caverns. Later, in the 1940’s, Shaw resident Ahmet Ertegun founded the Atlantic Records label and brought Southern soul and rock to America. 
+</p>
+
+<h3>Total Loss</h3>
+
+<p>
+  Well into the 1960’s, Shaw continued to be a strong, tight-knit neighborhood. Following Dr. Martin Luther King's assassination in 1968, however, riots ripped 
+  through established African American enclaves in Washington. Looters burned and gutted blocks upon blocks of businesses, leaving nothing behind. The National 
+  Guard instituted a curfew and D.C.’s mayor, Walter Washington, resisted pressure from the FBI to shoot rioters on site. Shaw’s residents, in an act of 
+  self-immolation brought on by anger and fear, reduced the area to an uninhabitable pile of ashes and rubble from which it would not recover for forty years.
+  <br>
+</p>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Z0ypZPlQJJc" frameborder="0" allowfullscreen></iframe>
+
+<h3>Out of the Ashes</h3>
+
+<p>
+  Despite decades of urban blight following the '68 riots, Shaw was caught up in D.C.’s recent wave of gentrification and recovered to become a dining, 
+  shopping, and entertainment destination. Concert halls like the 9:30 Club, U Street Music Hall, and DC9 have transformed the area from a jazz Mecca to a 
+  trendy alternative scene. Despite the transformation, legacy venues like Bohemian Caverns, the Lincoln Theatre, and the Howard Theatre have all reopened to 
+  serve their original purpose. In the face of drastic change, Shaw successfully embraces its history in the context of a more diverse clientele.
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150207/IMG_2499.JPG">
+  </div>
+</div>
+
+</article>
+</div>

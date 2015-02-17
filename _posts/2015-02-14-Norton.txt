@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "The Tragic Tale of Dr. Norton and His Famous Grape"
+date:   2015-02-14 21:00:00
+categories: jekyll update
+cover: "/images/20150214/IMG_2592_t.JPG"
+---
+
+<div class="col-md-12" style="margin-top:-2%;margin-bottom:5%;">
+<article>
+
+<br>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150214/IMG_2592.JPG">
+  </div>
+</div>
+
+<h3>Love Lost</h3>
+
+<p>
+  Born in Williamsburg, VA, 1794, Daniel Norborne Norton was a privileged man and horticulture hobbyist. His stepfather, John Ambler, was a Virginia
+  House of Delegates member and prominent Richmond socialite. In 1815, Norton graduated from the University of Pennsylvania with a medical degree and opened a
+  practice in his home town of Richmond (apparently patients trusted 21-year-old doctors at the time). At the age of 27, Dr. Norton was married with his first
+  child on the way. His wife, Elizabeth Jaquelin Call, daughter of a well-regarded lawyer, was <a target="_blank" href="http://chateau-z.com/downloads/AWS-V36-No3-2004.pdf">
+  “a truly amiable and excellent young lady” with a “sincere, benevolent, and affectionate heart”</a>. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150214/IMG_2716.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  Norton's life took a tragic turn when, during childbirth,
+  Elizabeth and her baby died. His business hardly diverted him from his grief: he practiced medicine as a necessary source of income. His step father always 
+  lavished wealth on his half-siblings, giving Norton only enough to stand on the sidelines of Richmond society, a position he resented. Wishing to battle
+  his crippling depression via distraction, Norton turned not to his job, but to his hobby: viticulture. 
+  <br>
+</p>
+
+<h3>"You shall have grapes that will compare with those of France or Italy"</h3>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150214/IMG_2736.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  Norton encountered a hybrid grape known as the "Bland" while walking the Virginia countryside. Although the Bland is extinct now, Norton's find
+  was likely a cross between <a target="_blank" href="http://en.wikipedia.org/wiki/Vitis_labrusca"><i>vitis labrusca</i></a>, a native species and
+  <a target="_blank" href="http://en.wikipedia.org/wiki/Vitis_vinifera"><i>vitis vinifera</i></a>, a Mediterranean variety. He crossed it with another
+  native species, <a target="_blank" href="http://en.wikipedia.org/wiki/Vitis_aestivalis"><i>vitis aestivalis</i></a>, to create a hardy, disease-resistant
+  grape to compete with European wine-making stock. 
+  <br>
+</p>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150214/IMG_2663.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  Naming the vine after himself, Norton documented it and sent a thorough description to William Prince, a famous horticulturist in New York. Prince published
+  the description in 1830, peaking the attention of winemakers across America. Proprietors <a target="_blank" href="http://www.winesandvines.com/template.cfm?section=features&content=74748">
+  Michael Poeschel and John Scherer</a> opened <a target="_blank" href="http://en.wikipedia.org/wiki/Stone_Hill_Winery">Stone Hill Winery</a> in Hermann, 
+  Missouri and began bottling Norton wines, which won several international awards in the 1870s. Despite being the third largest winery in the world, Stone Hill
+  was forced out of business during Prohibition's destruction of the American wine industry.
+  <br>
+</p>
+
+<h3>Norton's Revival</h3>
+
+<div class="row">
+  <div class="col-lg-12 col-sm-12">
+    <img class="img-responsive blog-img" src="{{baseurl}}/keep_trackin/images/20150214/IMG_2682.JPG">
+  </div>
+</div>
+
+<p>
+  <br>
+  Decades later, Stone Hill reopened along with many other wineries across the country. Norton made its way back to Virginia, and growers there sometimes 
+  mistakenly claim it was discovered at Thomas Jefferson's Monticello. Dr. Norton did send Thomas Jefferson's grandson grape vines, however they weren't Norton
+  varietals. Wineries likely used letters between the two men to establish a tenuous connection for marketing purposes. Dr. Norton, creator of a home-grown 
+  American grape to rival its European counterparts, is largely unknown to history. The tragic loss which spurred him forward was eventually mitigated: Norton 
+  married Elizabeth's cousin and had five children with her. He died prematurely in 1842 and is buried in Richmond's Shockoe Cemetery; a grapevine grows next
+  to his grave. 
+  <br>
+</p>
+
+</article>
+</div>
